@@ -2,4 +2,4 @@
 
 this is a portfolio to showcase some of my work.
 
-to visit: [click here](https://alfianrs.github.io/me/)
+to visit: [click here](https://alfianrsa.github.io/me/)
